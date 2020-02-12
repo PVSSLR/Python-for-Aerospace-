@@ -1,6 +1,3 @@
 # Python-for-Aerospace-
 
-
-
-#1 calculate sw,sv,sg,md is basic python program to calculate specific weight, specific volume,mass density and specific gravity
-
+#1 For Numpy basics choose ``Numpy_Basics.ipynb``
