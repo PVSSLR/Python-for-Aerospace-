@@ -1,4 +1,0 @@
-//2D array
-b=np.array([[1,2,3],[5,6,7]])
-print(b)
-b.shape //to see the shape or dimentions of the array
